@@ -13,7 +13,7 @@ _basever=50
 _aufs=20181217
 _bfq=v9
 _bfqdate=20181212
-_sub=1
+_sub=3
 _rc=
 _commit=6e693b3ffecb0b478c7050b44a4842854154f715
 _shortcommit=${_rc}.0120.g6e693b3
@@ -63,7 +63,7 @@ source=("https://www.kernel.org/pub/linux/kernel/v5.x/linux-${_basekernel}.tar.x
         '0013-bootsplash.patch'
         acso.patch::https://gitlab.com/Queuecumber/linux-acs-override/raw/master/workspaces/5.0/acso.patch)
 sha256sums=('437b141a6499159f5a7282d5eb4b2be055f8e862ccce44d7464e8759c31a2e43'
-            'd05db91f6b95f963bb4c92fedb1ccb300378c23cc16b09f27d2190841620d5a4'
+            '802edfe24f3557bd8eeabe56c70721b2bf1e9d5c9d853a4fa78b0c1b08af56de'
             '7acb003c910834a35834b5a8c38badddc347fc0ab9edcf6a343c3c227a31a0ef'
             'f5903377d29fc538af98077b81982efdc091a8c628cb85566e88e1b5018f12bf'
             '43942683a7ff01b180dff7f3de2db4885d43ab3d4e7bd0e1918c3aaf2ee061f4'
